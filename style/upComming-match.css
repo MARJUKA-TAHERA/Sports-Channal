@@ -92,6 +92,9 @@ body {
     .extra-text {
         display: none;
     }
+    .button-banner-container {
+    margin: auto;
+}
 }
 
 .banner-button {
@@ -105,7 +108,7 @@ body {
     color: white;
 }
 .button-banner-container {
-    width: 200px;
+    width: 220px;
     transition: width 2s;
 }
 .button-banner-container:hover {
